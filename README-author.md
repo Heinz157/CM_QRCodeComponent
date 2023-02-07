@@ -24,6 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/mobile-first-qr-code-widget-ZdFPg_akGb)
 - Live Site URL: [Live Site](https://heinz157.github.io/CM_QRCodeComponent/)
 
 ## My process
